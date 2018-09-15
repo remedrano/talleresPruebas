@@ -1,5 +1,5 @@
 # Se tienen la mayoria de taller de pruebas realizada en Pruebas automatizadas 
 <br>
-<a href="http://www.google.com">Taller Semana 5</a>
+<a href="https://github.com/remedrano/talleresPruebas/tree/master/Taller5">Taller Semana 5</a>
 <br>
-Taller Semana 6
+<a href="https://github.com/remedrano/talleresPruebas/tree/master/Taller5">Taller Semana 6</a>
