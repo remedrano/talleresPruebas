@@ -1,0 +1,29 @@
+<div class="container">
+    <div class=" row form-group mt-lg-5 ">
+        <div class="row col-12 text-center ">
+            <button class="btn btn-primary" (click)="addFile()">Generar reporte</button>
+        </div>
+        <div class="row col-12 mt-lg-5 ">
+            <table class="table">
+                <tr>
+                    <th>No.</th>
+                    <th>Fecha del reporte</th>
+                    <th>Imagen base</th>
+                    <th>Imagen modificada</th>
+                    <th>Diferencias</th>
+                </tr>
+
+                <tr *ngFor="let dato of dataTable" >
+                    <td>{{ dato.no }}</td>
+                    <td>{{ dato.fecha }}</td>
+                    <td><img width="90" height="90" [src]="dato.imagen1" /></td>
+                    <td><img width="90" height="90" [src]="dato.imagen2" /></td>                    
+                    <td><img width="90" height="90" [src]="dato.imagen3"/></td>
+                </tr>
+               
+              </table>
+        </div>    
+      </div>
+
+</div>
+
