@@ -5,8 +5,6 @@ Contiene toda la información del taller realizado en la semana 13
 
 2. Chaos Monkey --> <a target="_blank" href="https://github.com/remedrano/talleresPruebas/blob/master/Taller13/chaos.properties" > Estrategia </a><br>
 
-3. Janitor Monkey --> <a target="_blank" href="https://github.com/remedrano/talleresPruebas/blob/master/Taller13/janitor.properties" > Estrategia </a>
+3. Janitor Monkey --> <a target="_blank" href="https://github.com/remedrano/talleresPruebas/blob/master/Taller13/janitor.properties" > Estrategía </a>
 
-4. Conformity Monkey --> <a target="_blank" href="https://github.com/remedrano/talleresPruebas/blob/master/Taller13/conformity.properties" > Estrategia </a>
-
-
+4. Conformity Monkey --> <a target="_blank" href="https://github.com/remedrano/talleresPruebas/blob/master/Taller13/conformity.properties" > Estrategía </a>
